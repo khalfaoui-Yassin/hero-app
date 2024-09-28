@@ -25,3 +25,9 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+---
+
+# Hero App
+
+The Hero App is an Angular-based web application designed to manage a collection of superheroes. Users can easily create and view heroes, each characterized by a name, power level, and image. The app provides a user-friendly interface that allows for seamless interaction and management of hero data.
